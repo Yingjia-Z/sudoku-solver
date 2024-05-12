@@ -10,7 +10,7 @@ In the [`solver`](sudoku.ipynb) Jupyter notebook:
 
 #### Part B: Solver Implementations
 - **Version A**: Standard backtracking search (no forward checking, random variable order, random value order).
-- **Version B**: Standard backtracking search + forward checking (random variable order, ran- dom value order).
+- **Version B**: Standard backtracking search + forward checking (random variable order, random value order).
 - **Version C**: Standard backtracking search + forward checking + three heuristics to order variables and values, using random selection to break ties.
   - Three heuristics:
     - Most Constrained Variable
